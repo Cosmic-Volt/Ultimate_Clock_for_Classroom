@@ -7,7 +7,7 @@ Features:
 
 -Buzzer to buzz 5min before Class ends
 
--Subect displays for few seconds when that class starts
+-Subject displays for few seconds when that class starts
 
 
 Original Hardware:
