@@ -1,4 +1,4 @@
-# Ultimate_Clock_for_Classroom
+# Ultimate_Clock_for_Classroom(The_Classinator)
 
 Features:
 -Time | Countdown Time | Temperature --on Dot Matrix Display(MAX7219)
