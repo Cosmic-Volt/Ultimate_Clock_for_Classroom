@@ -21,6 +21,8 @@ Feel Free to update code and change class times and Sujects to your desire.
 
 WokWi Simulation: https://wokwi.com/projects/402586282048113665
 
+Instructables : https://www.instructables.com/The-Classinator-Ultimate-Clock-for-Classroom/
+
 Libraries to install: 
 
 -MD_Parola
