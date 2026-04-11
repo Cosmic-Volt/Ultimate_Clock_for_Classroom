@@ -20,3 +20,14 @@ Feel Free to update code and change class times and Sujects to your desire.
 
 WokWi Simulation: https://wokwi.com/projects/402586282048113665
 
+Libraries to install: 
+
+-MD_Parola
+    by MajicDesigns — scrolling text on MAX7219 panels
+    
+-MD_MAX72xx
+    by MajicDesigns — low-level MAX7219 driver (dependency of Parola)
+    
+-RTClib
+    by Adafruit — DS3231 real-time clock interface
+
