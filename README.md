@@ -15,6 +15,7 @@ Original Hardware:
 -Arduino Nano
 -Max7219 dot matrix
 -DS3231 RTC Module
+-Buzzer
 
 Feel Free to update code and change class times and Sujects to your desire. 
 
