@@ -36,4 +36,4 @@ Libraries to install:
 
 
 
-Note: I used Claude for few parts of the code.
+Note: I vibe coded almost all parts of this code using claude.
