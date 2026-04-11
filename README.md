@@ -34,3 +34,6 @@ Libraries to install:
 -RTClib
     by Adafruit — DS3231 real-time clock interface
 
+
+
+Note: I used Claude for few parts of the code.
