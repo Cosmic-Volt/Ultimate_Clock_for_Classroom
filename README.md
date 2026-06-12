@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/3725ee6a-deea-42d3-af28-f26e30708b93
 # Ultimate_Clock_for_Classroom(The_Classinator)
 
 ## Features:
@@ -85,10 +87,13 @@ After chaniging to Arduino Nano It finally worked!!!!
 Clock in class room:
 
 
-https://github.com/user-attachments/assets/21ef53cc-fdcb-4e02-a8e2-9c667d332db9
+https://github.com/user-attachments/assets/18fff9e4-de7b-4c1a-bd34-5d46c0b25bc1
 
 
 
-https://github.com/user-attachments/assets/6a762a8f-2e52-4eed-b631-6691f23e824f
+https://github.com/user-attachments/assets/b0709341-3ed1-4f64-b5c2-39e5056679df
+
+
+
 
 
