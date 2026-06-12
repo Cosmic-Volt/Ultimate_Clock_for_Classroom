@@ -40,7 +40,8 @@ Feel Free to update code and change class times and Sujects to your desire.
 -RTClib
     by Adafruit — DS3231 real-time clock interface
 
-### How I made this Project✨
+
+## How I made this Project✨
 
 In my class (grade 8 'Uranus') we desperiated needed a clock for our classroom to denote time and how much time is left for the class, and my classmates came up to me asking me to build a clock, but I wanted to step up the game abit and make 'The Ultimate Clock' customed designed to our class schedule for optimal time keeping.
 I wanted to have firstly regular clock, then also have a countdown timer to when the class will end, also a buzzer to ring 5 minute before the class will end so that teachers could wrap up the class and be students be done with their presentations (we had a presentation on a topic every class according to our roll no.), and also a temperature display because why not? (i thought of this later when I found out DS3231 RTC module has a temperature sensor)
